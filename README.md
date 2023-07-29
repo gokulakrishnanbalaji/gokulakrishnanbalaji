@@ -18,7 +18,7 @@
 
 - 📄 Know about my experiences [https://1drv.ms/b/s!AtgyDHCSo4Mjg_FfXzSqHxiwZoB_tA?e=HxTYSl](https://1drv.ms/b/s!AtgyDHCSo4Mjg_FfXzSqHxiwZoB_tA?e=HxTYSl)
 
-- ⚡ Fun fact **Committed with my terminal 👩‍💻**
+- ⚡ Fun fact **For my friend's birthday, I created a remarkable birthday website that left a lasting impression, surpassing the impact of any physical gift 🎉**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
