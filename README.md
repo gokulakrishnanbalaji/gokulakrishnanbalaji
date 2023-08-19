@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gokulakrishnanbalaji&label=Profile%20views&color=0e75b6&style=flat" alt="gokulakrishnanbalaji" /> </p>
 
-- 🔭 I’m currently working on [Nike website using Tailwind CSS]([https://github.com/gokulakrishnanbalaji/Nike_Tailwind])
+- 🔭 I’m currently working on [Nike website using Tailwind CSS](https://github.com/gokulakrishnanbalaji/Nike_Tailwind)
 
 - 🌱 I’m currently learning **React, LLM**
 
