@@ -111,8 +111,8 @@
 
 ### 📫 Let’s Connect
 
-- 📧 Email: `TODO: your-email@domain.com`
-- 🔗 LinkedIn: `TODO: https://www.linkedin.com/in/<your-linkedin>/`
+- 📧 Email: gokulbalaji2408@gmail.com
+- 🔗 LinkedIn: [linkedin.com/gokulakrishnan2408](https://www.linkedin.com/in/gokulakrishnan2408/)
 - 🧑‍💻 GitHub: [github.com/gokulakrishnanbalaji](https://github.com/gokulakrishnanbalaji)
 
 > If you’re working on applied NLP, LLMs, or agentic AI systems and want to chat or collaborate, feel free to reach out!
