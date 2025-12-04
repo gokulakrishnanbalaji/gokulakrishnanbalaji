@@ -1,5 +1,9 @@
 <!-- Profile README for github.com/gokulakrishnanbalaji -->
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" width="240" alt="Developer animation" />
+</p>
+
 <h1 align="center">Hi there, I'm Gokulakrishnan 👋</h1>
 
 <p align="center">
@@ -17,9 +21,10 @@
 
 ### 🚀 What I'm up to
 
+
 - 🧠 **M.Tech in Data Science & AI** at **IIT Madras** (2024–2026)  
 - 🧩 **Incoming Applied Scientist Intern @ Amazon** (Jan–Jun 2026)  
-- 💼 **Incoming Applied Scientist @ Microsoft** (FTE, post-internship)  
+- 💼 **Incoming Applied Scientist @ Microsoft** (FTE)  
 - 🌍 Interested in **LLMs, Agentic AI, NLP, and production ML systems**
 
 > I like taking ideas from research papers and turning them into robust, deployable systems.
@@ -70,6 +75,7 @@
 - Top-5 in **SemEval-2024** competition (Semantic Textual Relatedness)  
 - Fine-tuned **SBERT** and **T5** models on Indic, African, and Arabic dialects  
 - Achieved **0.835 Pearson** on English, with **0.74 cross-lingual average**
+- Paper link: https://aclanthology.org/2024.semeval-1.260/
 
 #### 🧠 Agentic AI for Root Cause Analysis (RCA)  
 - Designed an **Agentic AI system** for automated RCA on enterprise data  
@@ -88,24 +94,6 @@
 
 - 🧑‍💼 **Public Relations Manager — IEEE Computer Society, SSN College of Engineering**  
   - Managed outreach, event visibility, and communication between students, faculty, and industry speakers
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=gokulakrishnanbalaji&show_icons=true&theme=radical"
-    alt="GitHub stats"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokulakrishnanbalaji&layout=compact&theme=radical"
-    alt="Top languages"
-  />
-</p>
 
 ---
 
