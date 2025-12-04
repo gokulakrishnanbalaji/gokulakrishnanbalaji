@@ -1,35 +1,185 @@
-[![MasterHead](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding.jpg)](https://www.linkedin.com/in/gokulakrishnan2408/)
-<h1 align="center">Hi 👋, I'm Gokulakrishnan</h1>
-<h3 align="center">A passionate Web developer and Data Scientist from India</h3>
+<!-- Profile README for github.com/gokulakrishnanbalaji -->
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966![image](https://github.com/user-attachments/assets/9435da16-dc7a-459a-9749-613f5926406e)
-">
+<h1 align="center">Hi there, I'm Gokulakrishnan 👋</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gokulakrishnanbalaji&label=Profile%20views&color=0e75b6&style=flat" alt="gokulakrishnanbalaji" /> </p>
-
-- 🌱 I’m currently learning **Advanced SQL, Gen AI**
-
-- 👯 I’m looking to collaborate on **NLP projects**
-
-- 💬 Ask me about **Flask, Vue , ML , Neural Networks**
-
-- 📫 How to reach me **gokulbalaji2408@gmail.com**
-
-- 📄 Know about my experiences [https://1drv.ms/b/s!AtgyDHCSo4Mjg_FfXzSqHxiwZoB_tA?e=HxTYSl](https://1drv.ms/b/s!AtgyDHCSo4Mjg_FfXzSqHxiwZoB_tA?e=HxTYSl)
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/gokulakrishnan2408" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gokulakrishnan2408" height="30" width="40" /></a>
-<a href="https://kaggle.com/gokulbalaji2408" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="gokulbalaji2408" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/gokulakrishnan2408" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gokulakrishnan2408" height="30" width="40" /></a>
+<p align="center">
+  <b>Applied Scientist · ML & NLP · M.Tech DS & AI @ IIT Madras</b>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gokulakrishnanbalaji&style=flat-square" alt="profile views" />
+  <a href="https://github.com/gokulakrishnanbalaji?tab=followers">
+    <img src="https://img.shields.io/github/followers/gokulakrishnanbalaji?label=Followers&style=flat-square" alt="followers" />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gokulakrishnanbalaji&show_icons=true&locale=en&layout=compact" alt="gokulakrishnanbalaji" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gokulakrishnanbalaji&show_icons=true&locale=en" alt="gokulakrishnanbalaji" /></p>
+### 🚀 What I'm up to
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gokulakrishnanbalaji&" alt="gokulakrishnanbalaji" /></p>
+- 🧠 **M.Tech in Data Science & AI** at **IIT Madras** (2024–2026)  
+- 🧩 **Incoming Applied Scientist Intern @ Amazon** (Jan–Jun 2026)  
+- 💼 **Incoming Applied Scientist @ Microsoft** (FTE, post-internship)  
+- 🌍 Interested in **LLMs, Agentic AI, NLP, and production ML systems**
+
+> I like taking ideas from research papers and turning them into robust, deployable systems.
+
+---
+
+### 🧾 At a Glance
+
+- 🎓 **Education**
+  - M.Tech in Data Science & AI – **IIT Madras** (2024–2026)
+  - B.S in Data Science – **IIT Madras** (2020–2024)
+  - B.Tech in Information Technology – **SSN College of Engineering** (2020–2024)
+- 🏆 **Achievements**
+  - Top-5 in **SemEval-2024** (Semantic Textual Relatedness)
+  - **AIR 300** in **GATE 2024 (Data Science & AI – DA)**
+- 🗣️ **Leadership**
+  - **Public Relations Manager**, IEEE Computer Society – **SSN College of Engineering**
+
+---
+
+### 🛠️ Tech Stack
+
+#### 👨‍💻 Languages
+`Python` · `C++` · `SQL` · `JavaScript`
+
+#### 🤖 ML / DL / NLP
+`PyTorch` · `TensorFlow` · `Scikit-learn` · `Transformers` · `LangChain`  
+`NLP` · `Computer Vision`
+
+#### 🌐 Web & Backend
+`Flask` · `FastAPI` · `Vue.js` · `HTML` · `CSS` · `JavaScript` · `RBAC`
+
+#### 🗃️ Databases
+`SQLite` · `MySQL` · `PostgreSQL`
+
+#### 🧰 Tools & Infra
+`Git` · `Docker` · `Streamlit` · `MLflow` · `DVC`  
+`Celery` · `Redis` · `Pandas` · `NumPy` · `Matplotlib` · `Power Platform`  
+`Prometheus` · `Grafana`
+
+---
+
+### 📌 Featured Projects
+
+#### 🔹 Loss Landscape Geometry & Optimization Dynamics  
+> *Understanding how loss landscape geometry affects optimization and generalization.*
+
+- Explored loss surfaces and optimizer trajectories under different hyperparameters  
+- Analysed **flat vs. sharp minima** and their correlation with generalization  
+- Implemented visualizations for training dynamics and stability
+
+🔗 **Code:** [github.com/gokulakrishnanbalaji/Loss-Landscape-Geometry-Optimization-Dynamics](https://github.com/gokulakrishnanbalaji/Loss-Landscape-Geometry-Optimization-Dynamics)
+
+---
+
+#### 🔹 NER from Noisy Speech  
+> *Named Entity Recognition over noisy ASR transcripts.*
+
+- Built a pipeline to perform NER on **noisy speech transcripts**  
+- Handled ASR noise using normalization and confidence-aware extraction  
+- Analysed robustness of NER models in realistic, error-prone conditions  
+
+🔗 **Code:** [github.com/gokulakrishnanbalaji/NER-from-Noisy-Speech](https://github.com/gokulakrishnanbalaji/NER-from-Noisy-Speech)
+
+---
+
+#### 🔹 Stock Pulse – ML + MLOps for Stock Prediction  
+> *End-to-end stock movement prediction platform.*
+
+- Containerized **FastAPI** backend + HTML frontend for Up/Down prediction  
+- **Real-time monitoring** with Prometheus, Grafana, Node Exporter  
+- Integrated **MLflow**, **DVC**, and cron jobs for experiments & scheduled runs  
+
+> 🔗 _Add repo link here_ → `TODO: https://github.com/gokulakrishnanbalaji/<stock-pulse-repo>`
+
+---
+
+#### 🔹 Sequence-to-Sequence Transliteration (Dakshina)  
+> *Character-level GRU model for Tamil transliteration.*
+
+- Encoder–decoder **GRU** architecture with and without attention  
+- Custom pipeline for Unicode normalization, tokenization, and padding  
+- Used **Weights & Biases** sweeps  
+- Achieved **84% test accuracy with attention** vs **78% without**
+
+> 🔗 _Add repo link here_ → `TODO: https://github.com/gokulakrishnanbalaji/<seq2seq-transliteration-repo>`
+
+---
+
+#### 🔹 BookMyTicket – Full-Stack Ticket Booking  
+> *A full-stack ticket booking platform with role-based access.*
+
+- Backend with **Flask**, frontend with **Vue.js 2**, **SQLite** database  
+- Implemented **RBAC** for theatre owners & customers  
+- Used **Celery + Redis** for async tasks like emails & downloadable analytics  
+
+> 🔗 _Add repo link here_ → `TODO: https://github.com/gokulakrishnanbalaji/<bookmyticket-repo>`
+
+---
+
+#### 🔹 Sentiment Analysis – Movie Ratings  
+> *Binary classification of movie review sentiment.*
+
+- Preprocessed and merged datasets, designed features, scaled inputs  
+- Trained and evaluated multiple classical ML models  
+- Focused on model comparison & performance optimization  
+
+> 🔗 _Add repo link here_ → `TODO: https://github.com/gokulakrishnanbalaji/<sentiment-analysis-repo>`
+
+---
+
+### 🔬 Research
+
+#### 🧩 Sentence-BERT for STR in Low-resource Languages  
+- Top-5 in **SemEval-2024** competition (Semantic Textual Relatedness)  
+- Fine-tuned **SBERT** and **T5** models on Indic, African, and Arabic dialects  
+- Achieved **0.835 Pearson** on English, with **0.74 cross-lingual average**
+
+#### 🧠 Agentic AI for Root Cause Analysis (RCA)  
+- Designed an **Agentic AI system** for automated RCA on enterprise data  
+- Used **RAG** for context-aware SQL generation & deep-dive analytics  
+- Iterative reasoning loops to detect bottlenecks and infer root causes
+
+---
+
+### 💼 Experience & Leadership
+
+- 💼 **Digitalisation Intern — SKF India** (May 2025 – Jul 2025)  
+  - Built apps with **Power Apps**, **Power Automate**, **SharePoint**  
+  - Demo-unit booking system for German sales team (**4.7/5** satisfaction)  
+  - Leaderboard app for directors with incentive tracking  
+  - Ran AI awareness workshops (Copilot, Power Platform) for HR & Marketing  
+
+- 🧑‍💼 **Public Relations Manager — IEEE Computer Society, SSN College of Engineering**  
+  - Managed outreach, event visibility, and communication between students, faculty, and industry speakers
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=gokulakrishnanbalaji&show_icons=true&theme=radical"
+    alt="GitHub stats"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokulakrishnanbalaji&layout=compact&theme=radical"
+    alt="Top languages"
+  />
+</p>
+
+---
+
+### 📫 Let’s Connect
+
+- 📧 Email: `TODO: your-email@domain.com`
+- 🔗 LinkedIn: `TODO: https://www.linkedin.com/in/<your-linkedin>/`
+- 🧑‍💻 GitHub: [github.com/gokulakrishnanbalaji](https://github.com/gokulakrishnanbalaji)
+
+> If you’re working on applied NLP, LLMs, or agentic AI systems and want to chat or collaborate, feel free to reach out!
